@@ -206,6 +206,9 @@ To start the plugin, reload the Python Plugins in X-Plane through *Plugins > XPP
 
 > **Note**: If you restart the relay server, you also need to restart the Python plugins through *Reload Scripts*.
 
+<img src="./figures/XPPython3_reload.png" alt="Reload" width="400"/>
+
+
 > **Note**: Should debugging be necessary, the `XPPythonLog.txt` file in the home directory of X-Plane will be helpful as all the Python-related errors of the plugin will be logged there.
 
 
