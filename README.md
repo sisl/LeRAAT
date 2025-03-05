@@ -11,7 +11,10 @@ In the following, we will cover the requirements for each individual component a
 
 The overall architecture is depcited in the following figure.
 
-![System Architecture](./figures/overall_architecture.png)
+<p align="center">
+   <img src="./figures/overall_architecture.png" alt="System Architecture" height="600"/>
+</p>
+
 
 > **Note**: We provide a *mock plugin* that can be found in `./RelayServer/mock_xp_plugin.py` that allows to some extend to test different aspects of the LLM without X-Plane being in the loop. More details, please see the *Mock-XP Plugin* section.
 
