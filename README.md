@@ -18,6 +18,11 @@ The overall architecture is depcited in the following figure.
 
 > **Note**: We provide a *mock plugin* that can be found in `./RelayServer/mock_xp_plugin.py` that allows to some extend to test different aspects of the LLM without X-Plane being in the loop. More details, please see the *Mock-XP Plugin* section.
 
+## Demo Video
+In addition the the paper and this repository, we also released a [demo video](https://www.youtube.com/watch?v=RseBY-rOugQ) showing the full capabilities of the AI assistant.
+
+[![Demo Video](https://img.youtube.com/vi/RseBY-rOugQ/0.jpg)](https://www.youtube.com/watch?v=RseBY-rOugQ)
+
 ## General Requirements
 The entire setup is built around the following two software packages:
 
